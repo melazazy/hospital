@@ -23,13 +23,13 @@ Hospital management System is a web application Manage Common hospital resources
 
 ## Admin
 
--   [ ] has own Dashboard for all about hospital resources
+-   [x] has own Dashboard for all about hospital resources
 -   [x] Manage All Users like Approval or Delete
 
 ## Patient
 
--   [x]Book Appointment
--   [x]Make Appointment
+-   [x] Book Appointment
+-   [x] Make Appointment
 
 ---
 
@@ -60,7 +60,7 @@ Hospital management System is a web application Manage Common hospital resources
 
 -   [x] Make bill for finished appointment
 -   [x] Bay bills for patients
--   [ ] Add Bills for some Invoices unrelated for Users
+-   [x] Add Bills for some Invoices unrelated for Users
 
 ## Reception
 
@@ -71,5 +71,5 @@ Hospital management System is a web application Manage Common hospital resources
 
 ## Technologies
 
--   [x]In Front-end I’m Using HTML/CSS, Talwind, Bootstrap, jQuery
--   [x]In Back-end I’m Using PHP / Laravel, MYSQL And JavaScript.
+-   [x] In Front-end I’m Using HTML/CSS, Talwind, Bootstrap, jQuery
+-   [x] In Back-end I’m Using PHP / Laravel, MYSQL And JavaScript.
